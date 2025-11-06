@@ -1,6 +1,6 @@
 # Documentation
 
-Last updated: 2025-11-06T03:15:43.258Z
+Last updated: 2025-11-06T03:16:48.432Z
 
 ## Overview
 
